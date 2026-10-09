@@ -1,0 +1,1298 @@
+[
+  {
+    "name": "Agnaldo Silva Santana",
+    "full": "ESCOLA MUNICIPAL AGNALDO SILVA SANTANA",
+    "network": "Municipal",
+    "address": "Povoado Várzea Grande",
+    "region": "Rosa Elze",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "2º ANO - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 105
+      },
+      {
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - TARDE",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 106
+      }
+    ]
+  },
+  {
+    "name": "Antônio Carlos Leite Franco",
+    "full": "EMEF DEPUTADO ANTONIO CARLOS LEITE FRANCO",
+    "network": "Municipal",
+    "address": "Rua Principal, Povoado Cardoso",
+    "region": "Rural BR",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - INTEGRAL",
+        "shift": "VESPERTINO",
+        "applications": 2,
+        "row": 64
+      },
+      {
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - INTEGRAL",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 65
+      },
+      {
+        "class_name": "9º ANO A - ENSINO FUNDAMENTAL - INTEGRAL",
+        "shift": "INTEGRAL",
+        "applications": 1,
+        "row": 66
+      }
+    ]
+  },
+  {
+    "name": "Araceles Rodrigues Correa",
+    "full": "ESCOLA MUNICIPAL ARACELES RODRIGUES CORREA",
+    "network": "Municipal",
+    "address": "Avenida Horácio Souza Lima, 156, Alto da Divinéia",
+    "region": "Centro",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "9º ANO A DO ENSINO FUNDAMENTAL MANHA",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 48
+      },
+      {
+        "class_name": "9º ANO B DO ENSINO FUNDAMENTAL MANHA",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 49
+      },
+      {
+        "class_name": "9º ANO C DO ENSINO FUNDAMENTAL TARDE",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 50
+      },
+      {
+        "class_name": "9º ANO D DO ENSINO FUNDAMENTAL TARDE",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 51
+      }
+    ]
+  },
+  {
+    "name": "Armindo Guaraná",
+    "full": "COLEGIO ESTADUAL ARMINDO GUARANA",
+    "network": "Estadual",
+    "address": "Avenida José Conrado de Araújo, Jardim Rosa Elze",
+    "region": "Rosa Elze",
+    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=334",
+    "status": "Cadastro estadual / diretório complementar",
+    "classes": [
+      {
+        "class_name": "9º ANO A",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 20
+      },
+      {
+        "class_name": "9º ANO B",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 21
+      },
+      {
+        "class_name": "9º ANO C",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 22
+      },
+      {
+        "class_name": "3ª SERIE A",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 23
+      },
+      {
+        "class_name": "3ª SERIE B",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 24
+      },
+      {
+        "class_name": "3ª SERIE C",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 25
+      },
+      {
+        "class_name": "3ª SERIE D",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 26
+      },
+      {
+        "class_name": "3ª SERIE E",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 27
+      },
+      {
+        "class_name": "EP - INFORMTICA - INTEGRADO - 3ª SERIE - A",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 28
+      },
+      {
+        "class_name": "EP - INFORMTICA - INTEGRADO - 3ª SERIE - B",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 29
+      }
+    ]
+  },
+  {
+    "name": "Clarice da Silva",
+    "full": "COLEGIO ESTADUAL PROFESSORA CLARICE DA SILVA",
+    "network": "Estadual",
+    "address": "Rua 15, Conjunto Eduardo Gomes",
+    "region": "Rosa Elze",
+    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=355",
+    "status": "Cadastro estadual / diretório complementar",
+    "classes": [
+      {
+        "class_name": "9º ANO A",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 43
+      },
+      {
+        "class_name": "9º ANO B",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 44
+      },
+      {
+        "class_name": "9º ANO C",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 45
+      },
+      {
+        "class_name": "9º ANO D",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 46
+      },
+      {
+        "class_name": "9º ANO E",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 47
+      }
+    ]
+  },
+  {
+    "name": "Claudio Meireles",
+    "full": "ESCOLA MUNICIPAL CLAUDIO MEIRELES",
+    "network": "Municipal",
+    "address": "Rua Principal, Povoado Colônia Miranda",
+    "region": "Rita Cacete",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "2º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "shift": "INTEGRAL",
+        "applications": 2,
+        "row": 10
+      },
+      {
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "shift": "INTEGRAL",
+        "applications": 1,
+        "row": 11
+      }
+    ]
+  },
+  {
+    "name": "Elísio Carmelo",
+    "full": "COLEGIO ESTADUAL DEP ELISIO CARMELO",
+    "network": "Estadual",
+    "address": "Rua Erundino Prado Filho",
+    "region": "Centro",
+    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=315",
+    "status": "Conferir logradouro antes do deslocamento",
+    "classes": [
+      {
+        "class_name": "3ª SERIE A",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 2
+      },
+      {
+        "class_name": "3ª SERIE B",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 3
+      },
+      {
+        "class_name": "3ª SERIE C",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 4
+      },
+      {
+        "class_name": "3ª SERIE D",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 5
+      },
+      {
+        "class_name": "3ª SERIE E",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 6
+      },
+      {
+        "class_name": "3ª SERIE F",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 7
+      }
+    ]
+  },
+  {
+    "name": "Francisco da Costa Batista",
+    "full": "ESCOLA MUNICIPAL FRANCISCO DA COSTA BATISTA",
+    "network": "Municipal",
+    "address": "Rua Elpidio Batista, s/n",
+    "region": "Rosa Elze",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - TARDE",
+        "shift": "VESPERTINO",
+        "applications": 2,
+        "row": 135
+      },
+      {
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "shift": "VESPERTINO",
+        "applications": 2,
+        "row": 136
+      },
+      {
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - TARDE",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 137
+      }
+    ]
+  },
+  {
+    "name": "Frei Fernando",
+    "full": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL FREI FERNANDO",
+    "network": "Municipal",
+    "address": "Avenida Félix Pereira, s/n",
+    "region": "Centro",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 118
+      },
+      {
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 119
+      },
+      {
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 120
+      },
+      {
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 121
+      },
+      {
+        "class_name": "5º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 122
+      },
+      {
+        "class_name": "5º ANO C - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 123
+      }
+    ]
+  },
+  {
+    "name": "Gaspar Lourenço",
+    "full": "COLEGIO ESTADUAL PADRE GASPAR LOURENCO",
+    "network": "Estadual",
+    "address": "Avenida Irineu Neri",
+    "region": "Irineu Neri",
+    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=322",
+    "status": "Cadastro estadual / diretório complementar",
+    "classes": [
+      {
+        "class_name": "133748 - 9A",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 36
+      },
+      {
+        "class_name": "133749 - 9B",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 37
+      },
+      {
+        "class_name": "135255 - 9C",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 38
+      },
+      {
+        "class_name": "139092 - D",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 39
+      },
+      {
+        "class_name": "136178 - 3A",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 40
+      },
+      {
+        "class_name": "136179 - 3B",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 41
+      },
+      {
+        "class_name": "136180 - 3C",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 42
+      }
+    ]
+  },
+  {
+    "name": "Gina Franco",
+    "full": "ESCOLA MUNICIPAL GINA FRANCO",
+    "network": "Municipal",
+    "address": "Rua João Bebe Água, 56",
+    "region": "Centro",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "9º ANO A - ENSINO FUNDAMENTAL - INTEGRAL",
+        "shift": "INTEGRAL",
+        "applications": 1,
+        "row": 126
+      },
+      {
+        "class_name": "9º ANO B - ENSINO FUNDAMENTAL - INTEGRAL",
+        "shift": "INTEGRAL",
+        "applications": 1,
+        "row": 127
+      },
+      {
+        "class_name": "9ºANO C - ENSINO FUNDAMENTAL - INTEGRAL",
+        "shift": "INTEGRAL",
+        "applications": 1,
+        "row": 128
+      }
+    ]
+  },
+  {
+    "name": "Glorita Portugal",
+    "full": "COLEGIO ESTADUAL PROF GLORITA PORTUGAL",
+    "network": "Estadual",
+    "address": "Conjunto Eduardo Gomes (Rua 62, segundo o diretório complementar)",
+    "region": "Rosa Elze",
+    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=325",
+    "status": "Cadastro estadual / diretório complementar",
+    "classes": [
+      {
+        "class_name": "9 ANO A",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 12
+      },
+      {
+        "class_name": "9º ANO B",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 13
+      },
+      {
+        "class_name": "9º ANO C",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 14
+      },
+      {
+        "class_name": "9º ANO D",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 15
+      },
+      {
+        "class_name": "3ª SERIE A",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 16
+      },
+      {
+        "class_name": "3ª SERIE B",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 17
+      },
+      {
+        "class_name": "3ª SERIE C",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 18
+      },
+      {
+        "class_name": "3ª SERIE D",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 19
+      }
+    ]
+  },
+  {
+    "name": "Hamilton Alves Rocha",
+    "full": "CENTRO DE EXCELENCIA PROF HAMILTON ALVES ROCHA",
+    "network": "Estadual",
+    "address": "Avenida Marginal, Conjunto Eduardo Gomes",
+    "region": "Eduardo Gomes",
+    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=328",
+    "status": "Cadastro estadual / diretório complementar",
+    "classes": [
+      {
+        "class_name": "3ª SERIE A",
+        "shift": "INTEGRAL",
+        "applications": 1,
+        "row": 148
+      },
+      {
+        "class_name": "3ª SERIE B",
+        "shift": "INTEGRAL",
+        "applications": 1,
+        "row": 149
+      }
+    ]
+  },
+  {
+    "name": "Izidoria Mendes Cruz",
+    "full": "EMEF PROFESSORA IZIDORIA MENDES CRUZ",
+    "network": "Municipal",
+    "address": "Rua B 01, Conjunto Lafaiete Coutinho",
+    "region": "Rosa Elze",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MATUTINO",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 138
+      },
+      {
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MATUTINO",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 139
+      },
+      {
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - VESPERTINO",
+        "shift": "VESPERTINO",
+        "applications": 2,
+        "row": 140
+      },
+      {
+        "class_name": "2º ANO D - ENSINO FUNDAMENTAL - VESPERTINO",
+        "shift": "VESPERTINO",
+        "applications": 2,
+        "row": 141
+      },
+      {
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - MATUTINO",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 142
+      },
+      {
+        "class_name": "5º ANO B - ENSINO FUNDAMENTAL - MATUTINO",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 143
+      },
+      {
+        "class_name": "5º ANO C - ENSINO FUNDAMENTAL - MATUTINO",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 144
+      },
+      {
+        "class_name": "5º ANO D - ENSINO FUNDAMENTAL - VESPERTINO",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 145
+      },
+      {
+        "class_name": "5º ANO E - ENSINO FUNDAMENTAL - VESPERTINO",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 146
+      },
+      {
+        "class_name": "5º ANO F - ENSINO FUNDAMENTAL - VESPERTINO",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 147
+      }
+    ]
+  },
+  {
+    "name": "João Francisco de Andrade",
+    "full": "EMEF JOAO FRANCISCO DE ANDRADE",
+    "network": "Municipal",
+    "address": "Loteamento Lauro Rocha",
+    "region": "Centro",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 98
+      },
+      {
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "shift": "VESPERTINO",
+        "applications": 2,
+        "row": 99
+      },
+      {
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "shift": "INTEGRAL",
+        "applications": 1,
+        "row": 100
+      }
+    ]
+  },
+  {
+    "name": "Josinalva Santos Silva",
+    "full": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL PROFESSORA JOSINALVA SANTOS DA SILVA",
+    "network": "Municipal",
+    "address": "Rua José Prado Barreto, s/n",
+    "region": "Rosa Elze",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 67
+      },
+      {
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - TARDE",
+        "shift": "VESPERTINO",
+        "applications": 2,
+        "row": 68
+      },
+      {
+        "class_name": "2ºANO B - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 69
+      },
+      {
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 70
+      },
+      {
+        "class_name": "5º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 71
+      },
+      {
+        "class_name": "5º ANO C - ENSINO FUNDAMENTAL - TARDE",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 72
+      }
+    ]
+  },
+  {
+    "name": "Lourdes Tavares dos Santos",
+    "full": "ESCOLA MUNICIPAL LOURDES TAVARES DOS SANTOS",
+    "network": "Municipal",
+    "address": "Caípe Velho",
+    "region": "Rural Pedreiras",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "2º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 73
+      }
+    ]
+  },
+  {
+    "name": "Lourival Baptista",
+    "full": "ESCOLA MUNICIPAL DR LOURIVAL BAPTISTA",
+    "network": "Municipal",
+    "address": "Avenida Paulo Barreto de Menezes, s/n",
+    "region": "Centro",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 54
+      },
+      {
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "shift": "VESPERTINO",
+        "applications": 2,
+        "row": 55
+      },
+      {
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 56
+      },
+      {
+        "class_name": "5º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 57
+      },
+      {
+        "class_name": "5º ANO C - ENSINO FUNDAMENTAL - TARDE",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 58
+      }
+    ]
+  },
+  {
+    "name": "Lourival Fontes",
+    "full": "EMEF DR LOURIVAL FONTES",
+    "network": "Municipal",
+    "address": "Alto da Colina",
+    "region": "Centro",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "2ºANO - ENSINO FUNDAMENTAL - TARDE",
+        "shift": "VESPERTINO",
+        "applications": 2,
+        "row": 59
+      },
+      {
+        "class_name": "5ºANO - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 60
+      }
+    ]
+  },
+  {
+    "name": "Luiz Guimarães",
+    "full": "ESCOLA ESTADUAL LUIZ GUIMARAES",
+    "network": "Estadual",
+    "address": "Avenida Irineu Neri, 530",
+    "region": "Irineu Neri",
+    "source": "https://www.escol.as/cidades/1817-sao-cristovao/dependencia/estadual",
+    "status": "Conferir logradouro antes do deslocamento",
+    "classes": [
+      {
+        "class_name": "2º ANO A",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 114
+      },
+      {
+        "class_name": "5º ANO A",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 115
+      },
+      {
+        "class_name": "5º ANO B",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 116
+      },
+      {
+        "class_name": "5º ANO C",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 117
+      }
+    ]
+  },
+  {
+    "name": "Luzinete Teixeira Santos de Oliveira",
+    "full": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL PROFESSORA LUZINETE TEIXEIRA SANTOS DE OLIVEIRA",
+    "network": "Municipal",
+    "address": "Unnamed Road, São Cristóvão - SE, 49100-000",
+    "region": "Rural BR",
+    "source": "Informado pelo usuário",
+    "status": "Endereço informado pelo usuário",
+    "previous_name": "Escola Municipal de Ensino Fundamental Feijão",
+    "classes": [
+      {
+        "class_name": "2 º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "shift": "INTEGRAL",
+        "applications": 2,
+        "row": 87
+      },
+      {
+        "class_name": "5º ANO - ENSINO FUDAMENTAL - INTEGRAL",
+        "shift": "INTEGRAL",
+        "applications": 1,
+        "row": 88
+      }
+    ]
+  },
+  {
+    "name": "Major João Teles",
+    "full": "EMEF MAJOR JOAO TELES",
+    "network": "Municipal",
+    "address": "Povoado Cabrita",
+    "region": "Rosa Elze",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "2º ANO DO ENSINO FUNDAMENTAL - INTEGRAL",
+        "shift": "INTEGRAL",
+        "applications": 2,
+        "row": 85
+      },
+      {
+        "class_name": "5º ANO ENSINO FUNDAMENTAL - INTEGRAL",
+        "shift": "INTEGRAL",
+        "applications": 1,
+        "row": 86
+      }
+    ]
+  },
+  {
+    "name": "Manoel Assunção do Nascimento",
+    "full": "ESCOLA MUNICIPAL MANOEL ASSUNCAO DO NASCIMENTO",
+    "network": "Municipal",
+    "address": "Povoado Parque Santa Rita",
+    "region": "Rural BR",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL -MANHA",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 74
+      },
+      {
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "shift": "VESPERTINO",
+        "applications": 2,
+        "row": 75
+      },
+      {
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 76
+      }
+    ]
+  },
+  {
+    "name": "Manoel dos Passos",
+    "full": "ESCOLA ESTADUAL PROFESSOR MANOEL DOS PASSOS DE OLIVEIRA TELES",
+    "network": "Estadual",
+    "address": "Avenida Dom José Vicente Távora",
+    "region": "Centro",
+    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=359",
+    "status": "Conferir logradouro antes do deslocamento",
+    "classes": [
+      {
+        "class_name": "9º ANO A",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 8
+      },
+      {
+        "class_name": "9º ANO B",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 9
+      }
+    ]
+  },
+  {
+    "name": "Maria de Lourdes Gomes",
+    "full": "ESCOLA MUNICIPAL MARIA DE LOURDES GOMES",
+    "network": "Municipal",
+    "address": "Rua A, s/n, Loteamento Tijuquinha",
+    "region": "Rosa Elze",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MATUTINO",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 77
+      },
+      {
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MATUTINO",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 78
+      },
+      {
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - MATUTINO",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 79
+      },
+      {
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - MATUTINO",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 80
+      },
+      {
+        "class_name": "5º ANO B - ENSINO FUNDAMENTAL - VESPERTINO",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 81
+      },
+      {
+        "class_name": "5º ANO C - ENSINO FUNDAMENTAL - VESPERTINO",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 82
+      }
+    ]
+  },
+  {
+    "name": "Maria José Pinto Fontes",
+    "full": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL PROFESSORA MARIA JOSE PINTO FONTES",
+    "network": "Municipal",
+    "address": "Alto de Itabaiana",
+    "region": "Centro",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "2º ANO A ENSINO FUNDAMENTAL MANHA",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 107
+      },
+      {
+        "class_name": "2º ANO B ENSINO FUNDAMENAL TARDE",
+        "shift": "VESPERTINO",
+        "applications": 2,
+        "row": 108
+      },
+      {
+        "class_name": "5º ANO A ENSINO FUNDAMENTAL MANHA",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 109
+      },
+      {
+        "class_name": "5º ANO B ENSINO FUNDAMENTAL TARDE",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 110
+      }
+    ]
+  },
+  {
+    "name": "Maria Oliveira Santos",
+    "full": "ESCOLA MUNICIPAL MARIA OLIVEIRA SANTOS",
+    "network": "Municipal",
+    "address": "Travessa D, s/n, Madre Paulina",
+    "region": "Rosa Elze",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 101
+      },
+      {
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 102
+      },
+      {
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 103
+      },
+      {
+        "class_name": "5º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 104
+      }
+    ]
+  },
+  {
+    "name": "Martinho de Oliveira Bravo",
+    "full": "ESCOLA MUNICIPAL DR MARTINHO DE OLIVEIRA BRAVO",
+    "network": "Municipal",
+    "address": "Rua Grujim",
+    "region": "Rosa Elze",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "9º ANO A - ENSINO FUNDAMENTAL - INTEGRAL",
+        "shift": "INTEGRAL",
+        "applications": 1,
+        "row": 61
+      },
+      {
+        "class_name": "9º ANO B - ENSINO FUNDAMENTAL - INTEGRAL",
+        "shift": "INTEGRAL",
+        "applications": 1,
+        "row": 62
+      },
+      {
+        "class_name": "9º ANO C - ENSINO FUNDAMENTAL - INTEGRAL",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 63
+      }
+    ]
+  },
+  {
+    "name": "Neyde Mesquita",
+    "full": "ESCOLA ESTADUAL PROFESSORA NEYDE MESQUITA",
+    "network": "Estadual",
+    "address": "Rua A, Conjunto Lafaiete Coutinho",
+    "region": "Eduardo Gomes",
+    "source": "https://www.escol.as/cidades/1817-sao-cristovao/dependencia/estadual",
+    "status": "Conferir logradouro antes do deslocamento",
+    "classes": [
+      {
+        "class_name": "9 ANO A",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 89
+      },
+      {
+        "class_name": "9 ANO B",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 90
+      },
+      {
+        "class_name": "9 ANO C",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 91
+      }
+    ]
+  },
+  {
+    "name": "Normélia Araújo Melo",
+    "full": "ESCOLA ESTADUAL PROFESSORA NORMELIA ARAUJO MELO",
+    "network": "Estadual",
+    "address": "Rua A, Conjunto Lafayete Coutinho",
+    "region": "Rosa Elze",
+    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=362",
+    "status": "Cadastro estadual / diretório complementar",
+    "classes": [
+      {
+        "class_name": "9º ANO A",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 124
+      },
+      {
+        "class_name": "9º ANO B",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 125
+      }
+    ]
+  },
+  {
+    "name": "Paulo Sarasate",
+    "full": "CENTRO DE EXCELENCIA SENADOR PAULO SARASATE",
+    "network": "Estadual",
+    "address": "Avenida Paulo Barreto de Menezes",
+    "region": "Centro",
+    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=363",
+    "status": "Cadastro estadual / diretório complementar",
+    "classes": [
+      {
+        "class_name": "9º ANO A",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 33
+      },
+      {
+        "class_name": "3ª SERIE A",
+        "shift": "INTEGRAL",
+        "applications": 1,
+        "row": 34
+      },
+      {
+        "class_name": "3ª SERIE B",
+        "shift": "INTEGRAL",
+        "applications": 1,
+        "row": 35
+      }
+    ]
+  },
+  {
+    "name": "Pedro Amado",
+    "full": "ESCOLA MUNICIPAL PEDRO AMADO",
+    "network": "Municipal",
+    "address": "Avenida Lourival Baptista, s/n",
+    "region": "Centro",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "2º ANO- ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 83
+      },
+      {
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - VESPERTINO",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 84
+      }
+    ]
+  },
+  {
+    "name": "Raimundo Francisco dos Santos",
+    "full": "ESCOLA MUNICIPAL RAIMUNDO FRANCISCO DOS SANTOS",
+    "network": "Municipal",
+    "address": "Rua A, s/n, Luiz Alves",
+    "region": "Rosa Elze",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 129
+      },
+      {
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 130
+      },
+      {
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - TARDE",
+        "shift": "VESPERTINO",
+        "applications": 2,
+        "row": 131
+      },
+      {
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 132
+      },
+      {
+        "class_name": "5º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 133
+      },
+      {
+        "class_name": "5º ANO C - ENSINO FUNDAMENTAL - TARDE",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 134
+      }
+    ]
+  },
+  {
+    "name": "Ruth Dulce de Almeida",
+    "full": "ESCOLA MUNICIPAL RUTH DULCE DE ALMEIDA",
+    "network": "Municipal",
+    "address": "Barreiro",
+    "region": "Rosa Elze",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "2º ANO A MATUTINO ENSINO FUNDAMENTAL",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 92
+      },
+      {
+        "class_name": "2º ANO B MATUTINO ENSINO FUNDAMENTAL",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 93
+      },
+      {
+        "class_name": "2º ANO C VESPERTINO ENSINO FUNDAMENTAL",
+        "shift": "VESPERTINO",
+        "applications": 2,
+        "row": 94
+      },
+      {
+        "class_name": "2º ANO D VESPERTINO ENSINO FUNDAMENTAL",
+        "shift": "VESPERTINO",
+        "applications": 2,
+        "row": 95
+      },
+      {
+        "class_name": "5ºANO A MATUTINO ENSINO FUNDAMENTAL",
+        "shift": "MATUTINO",
+        "applications": 1,
+        "row": 96
+      },
+      {
+        "class_name": "5ºANO B VESPERTINO ENSINO FUNDAMENTAL",
+        "shift": "VESPERTINO",
+        "applications": 1,
+        "row": 97
+      }
+    ]
+  },
+  {
+    "name": "São Cristóvão",
+    "full": "ESCOLA MUNICIPAL SAO CRISTOVAO",
+    "network": "Municipal",
+    "address": "Rua Erundino Prado Filho, s/n",
+    "region": "Centro",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "9º ANO A ENSINO FUNDAMENTAL INTEGRAL",
+        "shift": "INTEGRAL",
+        "applications": 1,
+        "row": 30
+      },
+      {
+        "class_name": "9º ANO B ENSINO FUNDAMENTAL INTEGRAL",
+        "shift": "INTEGRAL",
+        "applications": 1,
+        "row": 31
+      },
+      {
+        "class_name": "9º ANO C ENSINO FUNDAMENTAL INTEGRAL",
+        "shift": "INTEGRAL",
+        "applications": 1,
+        "row": 32
+      }
+    ]
+  },
+  {
+    "name": "Terezita de Paiva Lima",
+    "full": "ESCOLA MUNICIPAL PROFESSORA TEREZITA DE PAIVA LIMA",
+    "network": "Municipal",
+    "address": "Povoado Pedreiras",
+    "region": "Rural Pedreiras",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "2º ANO - ENSINO FUNDAMENTAL - TARDE",
+        "shift": "VESPERTINO",
+        "applications": 2,
+        "row": 52
+      },
+      {
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "shift": "INTEGRAL",
+        "applications": 1,
+        "row": 53
+      }
+    ]
+  },
+  {
+    "name": "Tia Aidee",
+    "full": "EMEF TIA AIDEE",
+    "network": "Municipal",
+    "address": "Rua Principal, Povoado Rita Cacete",
+    "region": "Rita Cacete",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal",
+    "classes": [
+      {
+        "class_name": "2ºANO A ENSINO FUNDAMENTAL MANHA",
+        "shift": "MATUTINO",
+        "applications": 2,
+        "row": 111
+      },
+      {
+        "class_name": "2ºANO B ENSINO FUNDAMENTAL TARDE",
+        "shift": "VESPERTINO",
+        "applications": 2,
+        "row": 112
+      },
+      {
+        "class_name": "5º ANO A ENSINO FUNDAMENTAL INTEGRAL",
+        "shift": "INTEGRAL",
+        "applications": 1,
+        "row": 113
+      }
+    ]
+  }
+]

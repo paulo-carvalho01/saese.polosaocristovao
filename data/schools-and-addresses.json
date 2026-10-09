@@ -1,0 +1,336 @@
+[
+  {
+    "name": "Agnaldo Silva Santana",
+    "full": "ESCOLA MUNICIPAL AGNALDO SILVA SANTANA",
+    "network": "Municipal",
+    "address": "Povoado Várzea Grande",
+    "region": "Rosa Elze",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "Antônio Carlos Leite Franco",
+    "full": "EMEF DEPUTADO ANTONIO CARLOS LEITE FRANCO",
+    "network": "Municipal",
+    "address": "Rua Principal, Povoado Cardoso",
+    "region": "Rural BR",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "Araceles Rodrigues Correa",
+    "full": "ESCOLA MUNICIPAL ARACELES RODRIGUES CORREA",
+    "network": "Municipal",
+    "address": "Avenida Horácio Souza Lima, 156, Alto da Divinéia",
+    "region": "Centro",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "Armindo Guaraná",
+    "full": "COLEGIO ESTADUAL ARMINDO GUARANA",
+    "network": "Estadual",
+    "address": "Avenida José Conrado de Araújo, Jardim Rosa Elze",
+    "region": "Rosa Elze",
+    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=334",
+    "status": "Cadastro estadual / diretório complementar"
+  },
+  {
+    "name": "Clarice da Silva",
+    "full": "COLEGIO ESTADUAL PROFESSORA CLARICE DA SILVA",
+    "network": "Estadual",
+    "address": "Rua 15, Conjunto Eduardo Gomes",
+    "region": "Rosa Elze",
+    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=355",
+    "status": "Cadastro estadual / diretório complementar"
+  },
+  {
+    "name": "Claudio Meireles",
+    "full": "ESCOLA MUNICIPAL CLAUDIO MEIRELES",
+    "network": "Municipal",
+    "address": "Rua Principal, Povoado Colônia Miranda",
+    "region": "Rita Cacete",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "Elísio Carmelo",
+    "full": "COLEGIO ESTADUAL DEP ELISIO CARMELO",
+    "network": "Estadual",
+    "address": "Rua Erundino Prado Filho",
+    "region": "Centro",
+    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=315",
+    "status": "Conferir logradouro antes do deslocamento"
+  },
+  {
+    "name": "Francisco da Costa Batista",
+    "full": "ESCOLA MUNICIPAL FRANCISCO DA COSTA BATISTA",
+    "network": "Municipal",
+    "address": "Rua Elpidio Batista, s/n",
+    "region": "Rosa Elze",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "Frei Fernando",
+    "full": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL FREI FERNANDO",
+    "network": "Municipal",
+    "address": "Avenida Félix Pereira, s/n",
+    "region": "Centro",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "Gaspar Lourenço",
+    "full": "COLEGIO ESTADUAL PADRE GASPAR LOURENCO",
+    "network": "Estadual",
+    "address": "Avenida Irineu Neri",
+    "region": "Irineu Neri",
+    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=322",
+    "status": "Cadastro estadual / diretório complementar"
+  },
+  {
+    "name": "Gina Franco",
+    "full": "ESCOLA MUNICIPAL GINA FRANCO",
+    "network": "Municipal",
+    "address": "Rua João Bebe Água, 56",
+    "region": "Centro",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "Glorita Portugal",
+    "full": "COLEGIO ESTADUAL PROF GLORITA PORTUGAL",
+    "network": "Estadual",
+    "address": "Conjunto Eduardo Gomes (Rua 62, segundo o diretório complementar)",
+    "region": "Rosa Elze",
+    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=325",
+    "status": "Cadastro estadual / diretório complementar"
+  },
+  {
+    "name": "Hamilton Alves Rocha",
+    "full": "CENTRO DE EXCELENCIA PROF HAMILTON ALVES ROCHA",
+    "network": "Estadual",
+    "address": "Avenida Marginal, Conjunto Eduardo Gomes",
+    "region": "Eduardo Gomes",
+    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=328",
+    "status": "Cadastro estadual / diretório complementar"
+  },
+  {
+    "name": "Izidoria Mendes Cruz",
+    "full": "EMEF PROFESSORA IZIDORIA MENDES CRUZ",
+    "network": "Municipal",
+    "address": "Rua B 01, Conjunto Lafaiete Coutinho",
+    "region": "Rosa Elze",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "Josinalva Santos Silva",
+    "full": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL PROFESSORA JOSINALVA SANTOS DA SILVA",
+    "network": "Municipal",
+    "address": "Rua José Prado Barreto, s/n",
+    "region": "Rosa Elze",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "João Francisco de Andrade",
+    "full": "EMEF JOAO FRANCISCO DE ANDRADE",
+    "network": "Municipal",
+    "address": "Loteamento Lauro Rocha",
+    "region": "Centro",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "Lourdes Tavares dos Santos",
+    "full": "ESCOLA MUNICIPAL LOURDES TAVARES DOS SANTOS",
+    "network": "Municipal",
+    "address": "Caípe Velho",
+    "region": "Rural Pedreiras",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "Lourival Baptista",
+    "full": "ESCOLA MUNICIPAL DR LOURIVAL BAPTISTA",
+    "network": "Municipal",
+    "address": "Avenida Paulo Barreto de Menezes, s/n",
+    "region": "Centro",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "Lourival Fontes",
+    "full": "EMEF DR LOURIVAL FONTES",
+    "network": "Municipal",
+    "address": "Alto da Colina",
+    "region": "Centro",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "Luiz Guimarães",
+    "full": "ESCOLA ESTADUAL LUIZ GUIMARAES",
+    "network": "Estadual",
+    "address": "Avenida Irineu Neri, 530",
+    "region": "Irineu Neri",
+    "source": "https://www.escol.as/cidades/1817-sao-cristovao/dependencia/estadual",
+    "status": "Conferir logradouro antes do deslocamento"
+  },
+  {
+    "name": "Luzinete Teixeira Santos de Oliveira",
+    "full": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL PROFESSORA LUZINETE TEIXEIRA SANTOS DE OLIVEIRA",
+    "network": "Municipal",
+    "address": "Unnamed Road, São Cristóvão - SE, 49100-000",
+    "region": "Rural BR",
+    "source": "Informado pelo usuário",
+    "status": "Endereço informado pelo usuário",
+    "previous_name": "Escola Municipal de Ensino Fundamental Feijão"
+  },
+  {
+    "name": "Major João Teles",
+    "full": "EMEF MAJOR JOAO TELES",
+    "network": "Municipal",
+    "address": "Povoado Cabrita",
+    "region": "Rosa Elze",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "Manoel Assunção do Nascimento",
+    "full": "ESCOLA MUNICIPAL MANOEL ASSUNCAO DO NASCIMENTO",
+    "network": "Municipal",
+    "address": "Povoado Parque Santa Rita",
+    "region": "Rural BR",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "Manoel dos Passos",
+    "full": "ESCOLA ESTADUAL PROFESSOR MANOEL DOS PASSOS DE OLIVEIRA TELES",
+    "network": "Estadual",
+    "address": "Avenida Dom José Vicente Távora",
+    "region": "Centro",
+    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=359",
+    "status": "Conferir logradouro antes do deslocamento"
+  },
+  {
+    "name": "Maria José Pinto Fontes",
+    "full": "ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL PROFESSORA MARIA JOSE PINTO FONTES",
+    "network": "Municipal",
+    "address": "Alto de Itabaiana",
+    "region": "Centro",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "Maria Oliveira Santos",
+    "full": "ESCOLA MUNICIPAL MARIA OLIVEIRA SANTOS",
+    "network": "Municipal",
+    "address": "Travessa D, s/n, Madre Paulina",
+    "region": "Rosa Elze",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "Maria de Lourdes Gomes",
+    "full": "ESCOLA MUNICIPAL MARIA DE LOURDES GOMES",
+    "network": "Municipal",
+    "address": "Rua A, s/n, Loteamento Tijuquinha",
+    "region": "Rosa Elze",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "Martinho de Oliveira Bravo",
+    "full": "ESCOLA MUNICIPAL DR MARTINHO DE OLIVEIRA BRAVO",
+    "network": "Municipal",
+    "address": "Rua Grujim",
+    "region": "Rosa Elze",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "Neyde Mesquita",
+    "full": "ESCOLA ESTADUAL PROFESSORA NEYDE MESQUITA",
+    "network": "Estadual",
+    "address": "Rua A, Conjunto Lafaiete Coutinho",
+    "region": "Eduardo Gomes",
+    "source": "https://www.escol.as/cidades/1817-sao-cristovao/dependencia/estadual",
+    "status": "Conferir logradouro antes do deslocamento"
+  },
+  {
+    "name": "Normélia Araújo Melo",
+    "full": "ESCOLA ESTADUAL PROFESSORA NORMELIA ARAUJO MELO",
+    "network": "Estadual",
+    "address": "Rua A, Conjunto Lafayete Coutinho",
+    "region": "Rosa Elze",
+    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=362",
+    "status": "Cadastro estadual / diretório complementar"
+  },
+  {
+    "name": "Paulo Sarasate",
+    "full": "CENTRO DE EXCELENCIA SENADOR PAULO SARASATE",
+    "network": "Estadual",
+    "address": "Avenida Paulo Barreto de Menezes",
+    "region": "Centro",
+    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=363",
+    "status": "Cadastro estadual / diretório complementar"
+  },
+  {
+    "name": "Pedro Amado",
+    "full": "ESCOLA MUNICIPAL PEDRO AMADO",
+    "network": "Municipal",
+    "address": "Avenida Lourival Baptista, s/n",
+    "region": "Centro",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "Raimundo Francisco dos Santos",
+    "full": "ESCOLA MUNICIPAL RAIMUNDO FRANCISCO DOS SANTOS",
+    "network": "Municipal",
+    "address": "Rua A, s/n, Luiz Alves",
+    "region": "Rosa Elze",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "Ruth Dulce de Almeida",
+    "full": "ESCOLA MUNICIPAL RUTH DULCE DE ALMEIDA",
+    "network": "Municipal",
+    "address": "Barreiro",
+    "region": "Rosa Elze",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "São Cristóvão",
+    "full": "ESCOLA MUNICIPAL SAO CRISTOVAO",
+    "network": "Municipal",
+    "address": "Rua Erundino Prado Filho, s/n",
+    "region": "Centro",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "Terezita de Paiva Lima",
+    "full": "ESCOLA MUNICIPAL PROFESSORA TEREZITA DE PAIVA LIMA",
+    "network": "Municipal",
+    "address": "Povoado Pedreiras",
+    "region": "Rural Pedreiras",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  },
+  {
+    "name": "Tia Aidee",
+    "full": "EMEF TIA AIDEE",
+    "network": "Municipal",
+    "address": "Rua Principal, Povoado Rita Cacete",
+    "region": "Rita Cacete",
+    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
+    "status": "Endereço do cadastro municipal"
+  }
+]
