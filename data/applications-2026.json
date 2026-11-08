@@ -5,8 +5,6 @@
     "network": "Municipal",
     "address": "Povoado Várzea Grande",
     "region": "Rosa Elze",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "2º ANO - ENSINO FUNDAMENTAL - MANHA",
@@ -20,6 +18,80 @@
         "applications": 1,
         "row": 106
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "ALEX SANDRA LIMA CAJE",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "EVERTON SILVA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "KETILYN RAILANY FERREIRA DA CONCEICAO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "ALISSON PEREIRA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "EDILENE GONÇALVES DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "JULIANO DOS SANTOS CONCEICAO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "EVERTON SILVA DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "ITAIANE BARROSO DE OLIVEIRA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "KETILYN RAILANY FERREIRA DA CONCEICAO",
+        "function": "Aplicador extra"
+      }
     ]
   },
   {
@@ -28,8 +100,6 @@
     "network": "Municipal",
     "address": "Rua Principal, Povoado Cardoso",
     "region": "Rural BR",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "2º ANO A - ENSINO FUNDAMENTAL - INTEGRAL",
@@ -49,6 +119,64 @@
         "applications": 1,
         "row": 66
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-09",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "ALISSON PEREIRA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "IALLE ALICE OLIVEIRA TENORIO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO A - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "ALLEF WANDERSON ROCHA SILVA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "EVERTON SILVA DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "KETILYN RAILANY FERREIRA DA CONCEICAO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "EVERTON SILVA DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "KETILYN RAILANY FERREIRA DA CONCEICAO",
+        "function": "Aplicador extra"
+      }
     ]
   },
   {
@@ -57,8 +185,6 @@
     "network": "Municipal",
     "address": "Avenida Horácio Souza Lima, 156, Alto da Divinéia",
     "region": "Centro",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "9º ANO A DO ENSINO FUNDAMENTAL MANHA",
@@ -84,6 +210,56 @@
         "applications": 1,
         "row": 51
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-09",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO A DO ENSINO FUNDAMENTAL MANHA",
+        "applicator": "PAULO FERNANDO ALVES DE CARVALHO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO A DO ENSINO FUNDAMENTAL MANHA",
+        "applicator": "SAYD EMANUELLE DE SOUZA SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO B DO ENSINO FUNDAMENTAL MANHA",
+        "applicator": "PRISCILA OLIVEIRA DA CUNHA SILVA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9º ANO C DO ENSINO FUNDAMENTAL TARDE",
+        "applicator": "SAYD EMANUELLE DE SOUZA SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9º ANO D DO ENSINO FUNDAMENTAL TARDE",
+        "applicator": "DANILO DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9º ANO D DO ENSINO FUNDAMENTAL TARDE",
+        "applicator": "PAULO FERNANDO ALVES DE CARVALHO",
+        "function": "Aplicador extra"
+      }
     ]
   },
   {
@@ -92,8 +268,6 @@
     "network": "Estadual",
     "address": "Avenida José Conrado de Araújo, Jardim Rosa Elze",
     "region": "Rosa Elze",
-    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=334",
-    "status": "Cadastro estadual / diretório complementar",
     "classes": [
       {
         "class_name": "9º ANO A",
@@ -155,6 +329,96 @@
         "applications": 1,
         "row": 29
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-18",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "3ª SERIE A",
+        "applicator": "PRISCILA OLIVEIRA DA CUNHA SILVA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "3ª SERIE B",
+        "applicator": "CLARICE PEREIRA DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "3ª SERIE C",
+        "applicator": "EDILENE GONÇALVES DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "3ª SERIE C",
+        "applicator": "PAULO FERNANDO ALVES DE CARVALHO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO A",
+        "applicator": "GISLAINE ESTER CANDEIAS NASCIMENTO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "EP - INFORMTICA - INTEGRADO - 3ª SERIE - A",
+        "applicator": "FERNANDO TAVARES SOUZA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "3ª SERIE D",
+        "applicator": "PRISCILA OLIVEIRA DA CUNHA SILVA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "3ª SERIE E",
+        "applicator": "MARTA SANTOS CRUZ",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9º ANO B",
+        "applicator": "PAULO FERNANDO ALVES DE CARVALHO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9º ANO C",
+        "applicator": "GISLAINE ESTER CANDEIAS NASCIMENTO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "EP - INFORMTICA - INTEGRADO - 3ª SERIE - B",
+        "applicator": "FERNANDO TAVARES SOUZA",
+        "function": "Aplicador regular"
+      }
     ]
   },
   {
@@ -163,8 +427,6 @@
     "network": "Estadual",
     "address": "Rua 15, Conjunto Eduardo Gomes",
     "region": "Rosa Elze",
-    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=355",
-    "status": "Cadastro estadual / diretório complementar",
     "classes": [
       {
         "class_name": "9º ANO A",
@@ -196,6 +458,72 @@
         "applications": 1,
         "row": 47
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-18",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO A",
+        "applicator": "JULIANO DOS SANTOS CONCEICAO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO A",
+        "applicator": "KATIA MARIA MOREIRA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO B",
+        "applicator": "IALLE ALICE OLIVEIRA TENORIO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO C",
+        "applicator": "ALLEF WANDERSON ROCHA SILVA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO C",
+        "applicator": "LORENA GABRIELLY SILVA SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9º ANO D",
+        "applicator": "JULIANO DOS SANTOS CONCEICAO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9º ANO E",
+        "applicator": "DANILO DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9º ANO E",
+        "applicator": "IALLE ALICE OLIVEIRA TENORIO",
+        "function": "Aplicador regular"
+      }
     ]
   },
   {
@@ -204,8 +532,6 @@
     "network": "Municipal",
     "address": "Rua Principal, Povoado Colônia Miranda",
     "region": "Rita Cacete",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "2º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
@@ -219,6 +545,72 @@
         "applications": 1,
         "row": 11
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "JOSUÉ SOARES DE SÁ",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "MARIA GRACILENE BASTOS DE JESUS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "ALLEF WANDERSON ROCHA SILVA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "ERICA GOMES SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "JULIANO DOS SANTOS CONCEICAO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "MARTA SANTOS CRUZ",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "JOSUÉ SOARES DE SÁ",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "MARIA GRACILENE BASTOS DE JESUS SANTOS",
+        "function": "Aplicador extra"
+      }
     ]
   },
   {
@@ -227,8 +619,6 @@
     "network": "Estadual",
     "address": "Rua Erundino Prado Filho",
     "region": "Centro",
-    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=315",
-    "status": "Conferir logradouro antes do deslocamento",
     "classes": [
       {
         "class_name": "3ª SERIE A",
@@ -266,6 +656,56 @@
         "applications": 1,
         "row": 7
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "3ª SERIE A",
+        "applicator": "PRISCILA OLIVEIRA DA CUNHA SILVA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "3ª SERIE B",
+        "applicator": "VIVIANE FERREIRA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "3ª SERIE C",
+        "applicator": "GISLAINE ESTER CANDEIAS NASCIMENTO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "3ª SERIE D",
+        "applicator": "PRISCILA OLIVEIRA DA CUNHA SILVA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "3ª SERIE E",
+        "applicator": "VIVIANE FERREIRA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "3ª SERIE F",
+        "applicator": "GISLAINE ESTER CANDEIAS NASCIMENTO",
+        "function": "Aplicador regular"
+      }
     ]
   },
   {
@@ -274,8 +714,6 @@
     "network": "Municipal",
     "address": "Rua Elpidio Batista, s/n",
     "region": "Rosa Elze",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "2º ANO A - ENSINO FUNDAMENTAL - TARDE",
@@ -295,6 +733,112 @@
         "applications": 1,
         "row": 137
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "DAYANE OLIVEIRA LIMA ROLLEMBERG",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "MARCIELE DE ANDRADE RIBEIRO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "BÁRBARA SANTOS PEREIRA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "GEANE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "SILVANEIDE RODRIGUES DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "GISLAINE ESTER CANDEIAS NASCIMENTO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "KATIA MARIA MOREIRA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "VIVIANE FERREIRA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "DAYANE OLIVEIRA LIMA ROLLEMBERG",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "MARCIELE DE ANDRADE RIBEIRO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "BÁRBARA SANTOS PEREIRA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "GEANE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "SILVANEIDE RODRIGUES DOS SANTOS",
+        "function": "Aplicador extra"
+      }
     ]
   },
   {
@@ -303,8 +847,6 @@
     "network": "Municipal",
     "address": "Avenida Félix Pereira, s/n",
     "region": "Centro",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
@@ -342,6 +884,184 @@
         "applications": 1,
         "row": 123
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "ANNE CAROLINE SANTOS DE AQUINO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "ITAIANE BARROSO DE OLIVEIRA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "JOSUÉ SOARES DE SÁ",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "GLEIDE SELMA NUNES ANDRADE SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "KETILYN RAILANY FERREIRA DA CONCEICAO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "MARCIELE DE ANDRADE RIBEIRO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "SILVANEIDE RODRIGUES DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "JULIANO DOS SANTOS CONCEICAO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "KATIA MARIA MOREIRA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "PAULO FERNANDO ALVES DE CARVALHO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "ROBSON FERREIRA VIANA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "SAYD EMANUELLE DE SOUZA SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO C - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "EDILENE GONÇALVES DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO C - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "IALLE ALICE OLIVEIRA TENORIO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO C - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "PRISCILA OLIVEIRA DA CUNHA SILVA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "ANNE CAROLINE SANTOS DE AQUINO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "ITAIANE BARROSO DE OLIVEIRA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "JOSUÉ SOARES DE SÁ",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "GLEIDE SELMA NUNES ANDRADE SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "KETILYN RAILANY FERREIRA DA CONCEICAO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "MARCIELE DE ANDRADE RIBEIRO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "SILVANEIDE RODRIGUES DOS SANTOS",
+        "function": "Aplicador regular"
+      }
     ]
   },
   {
@@ -350,8 +1070,6 @@
     "network": "Estadual",
     "address": "Avenida Irineu Neri",
     "region": "Irineu Neri",
-    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=322",
-    "status": "Cadastro estadual / diretório complementar",
     "classes": [
       {
         "class_name": "133748 - 9A",
@@ -395,6 +1113,64 @@
         "applications": 1,
         "row": 42
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "133748 - 9A",
+        "applicator": "ROBSON FERREIRA VIANA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "133749 - 9B",
+        "applicator": "CLARICE PEREIRA DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "135255 - 9C",
+        "applicator": "IALLE ALICE OLIVEIRA TENORIO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "139092 - 9D",
+        "applicator": "SAYD EMANUELLE DE SOUZA SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "136178 - 3A",
+        "applicator": "CLARICE PEREIRA DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "136179 - 3B",
+        "applicator": "IALLE ALICE OLIVEIRA TENORIO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "136180 - 3C",
+        "applicator": "SAYD EMANUELLE DE SOUZA SANTOS",
+        "function": "Aplicador regular"
+      }
     ]
   },
   {
@@ -403,8 +1179,6 @@
     "network": "Municipal",
     "address": "Rua João Bebe Água, 56",
     "region": "Centro",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "9º ANO A - ENSINO FUNDAMENTAL - INTEGRAL",
@@ -424,6 +1198,56 @@
         "applications": 1,
         "row": 128
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO A - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "DIEGO ROBERTO DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO A - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "ERICA GOMES SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO B - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "DIEGO ANDRADE NASCIMENTO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO B - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "EDILENE GONÇALVES DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9ºANO C - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "DIEGO ROBERTO DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9ºANO C - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "ERICA GOMES SANTOS",
+        "function": "Aplicador extra"
+      }
     ]
   },
   {
@@ -432,8 +1256,6 @@
     "network": "Estadual",
     "address": "Conjunto Eduardo Gomes (Rua 62, segundo o diretório complementar)",
     "region": "Rosa Elze",
-    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=325",
-    "status": "Cadastro estadual / diretório complementar",
     "classes": [
       {
         "class_name": "9 ANO A",
@@ -483,6 +1305,96 @@
         "applications": 1,
         "row": 19
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9 ANO A",
+        "applicator": "CLARICE PEREIRA DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO B",
+        "applicator": "IALLE ALICE OLIVEIRA TENORIO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO B",
+        "applicator": "SAYD EMANUELLE DE SOUZA SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO C",
+        "applicator": "JULIANO DOS SANTOS CONCEICAO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO C",
+        "applicator": "PAULO FERNANDO ALVES DE CARVALHO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO D",
+        "applicator": "ALLEF WANDERSON ROCHA SILVA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "3ª SERIE A",
+        "applicator": "CLARICE PEREIRA DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "3ª SERIE A",
+        "applicator": "SYNARA LUIZA SIMOES DA CRUZ SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "3ª SERIE B",
+        "applicator": "IALLE ALICE OLIVEIRA TENORIO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "3ª SERIE C",
+        "applicator": "PAULO FERNANDO ALVES DE CARVALHO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "3ª SERIE D",
+        "applicator": "ALLEF WANDERSON ROCHA SILVA",
+        "function": "Aplicador regular"
+      }
     ]
   },
   {
@@ -491,8 +1403,6 @@
     "network": "Estadual",
     "address": "Avenida Marginal, Conjunto Eduardo Gomes",
     "region": "Eduardo Gomes",
-    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=328",
-    "status": "Cadastro estadual / diretório complementar",
     "classes": [
       {
         "class_name": "3ª SERIE A",
@@ -506,6 +1416,24 @@
         "applications": 1,
         "row": 149
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "3ª SERIE A",
+        "applicator": "MARTA SANTOS CRUZ",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "3ª SERIE B",
+        "applicator": "VIVIANE FERREIRA",
+        "function": "Aplicador regular"
+      }
     ]
   },
   {
@@ -514,8 +1442,6 @@
     "network": "Municipal",
     "address": "Rua B 01, Conjunto Lafaiete Coutinho",
     "region": "Rosa Elze",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MATUTINO",
@@ -577,6 +1503,224 @@
         "applications": 1,
         "row": 147
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "HIANNDRA DA SILVA SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "MARCIELE DE ANDRADE RIBEIRO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "CLAUDIA SANTOS DE JESUS CUPERTINO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "SILVANEIDE RODRIGUES DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "PAULO FERNANDO ALVES DE CARVALHO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO B - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "ALISSON PEREIRA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO B - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "GISLAINE ESTER CANDEIAS NASCIMENTO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO C - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "KATIA MARIA MOREIRA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO C - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "SAYD EMANUELLE DE SOUZA SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - VESPERTINO",
+        "applicator": "HIANNDRA DA SILVA SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - VESPERTINO",
+        "applicator": "MARCIELE DE ANDRADE RIBEIRO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO D - ENSINO FUNDAMENTAL - VESPERTINO",
+        "applicator": "CLAUDIA SANTOS DE JESUS CUPERTINO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO D - ENSINO FUNDAMENTAL - VESPERTINO",
+        "applicator": "SILVANEIDE RODRIGUES DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO D - ENSINO FUNDAMENTAL - VESPERTINO",
+        "applicator": "LUCAS DE JESUS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO D - ENSINO FUNDAMENTAL - VESPERTINO",
+        "applicator": "PAULO FERNANDO ALVES DE CARVALHO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO E - ENSINO FUNDAMENTAL - VESPERTINO",
+        "applicator": "ALISSON PEREIRA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO E - ENSINO FUNDAMENTAL - VESPERTINO",
+        "applicator": "GISLAINE ESTER CANDEIAS NASCIMENTO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO F - ENSINO FUNDAMENTAL - VESPERTINO",
+        "applicator": "KATIA MARIA MOREIRA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO F - ENSINO FUNDAMENTAL - VESPERTINO",
+        "applicator": "SAYD EMANUELLE DE SOUZA SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "HIANNDRA DA SILVA SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "MARCIELE DE ANDRADE RIBEIRO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "CLAUDIA SANTOS DE JESUS CUPERTINO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "SILVANEIDE RODRIGUES DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - VESPERTINO",
+        "applicator": "HIANNDRA DA SILVA SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - VESPERTINO",
+        "applicator": "MARCIELE DE ANDRADE RIBEIRO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO D - ENSINO FUNDAMENTAL - VESPERTINO",
+        "applicator": "CLAUDIA SANTOS DE JESUS CUPERTINO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO D - ENSINO FUNDAMENTAL - VESPERTINO",
+        "applicator": "SILVANEIDE RODRIGUES DOS SANTOS",
+        "function": "Aplicador regular"
+      }
     ]
   },
   {
@@ -585,8 +1729,6 @@
     "network": "Municipal",
     "address": "Loteamento Lauro Rocha",
     "region": "Centro",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
@@ -606,6 +1748,48 @@
         "applications": 1,
         "row": 100
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "GEANE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "JULIANO DOS SANTOS CONCEICAO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "GEANE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "GEANE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "GEANE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador regular"
+      }
     ]
   },
   {
@@ -614,8 +1798,6 @@
     "network": "Municipal",
     "address": "Rua José Prado Barreto, s/n",
     "region": "Rosa Elze",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
@@ -653,6 +1835,232 @@
         "applications": 1,
         "row": 72
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "ANA CLAUDIA LOPES",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "ITAIANE BARROSO DE OLIVEIRA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "KETILYN RAILANY FERREIRA DA CONCEICAO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2ºANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "CLAUDIA SANTOS DE JESUS CUPERTINO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2ºANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "EMILIN GEISA MONTEIRO DE JESUS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2ºANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "RIVANICE DE SOUZA LOPES",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "CLARICE PEREIRA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "EDILENE GONÇALVES DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "JULIANO DOS SANTOS CONCEICAO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "KATIA MARIA MOREIRA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "VIVIANE FERREIRA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "DIEGO ANDRADE NASCIMENTO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "MARCIA CRISTINA FIGUEIROA SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "PRISCILA OLIVEIRA DA CUNHA SILVA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "ALEX SANDRA LIMA CAJE",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "IONARA GABRIELA OLIVEIRA DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "RIVANICE DE SOUZA LOPES",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO C - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "CLARICE PEREIRA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO C - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "PRISCILA OLIVEIRA DA CUNHA SILVA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "ITAIANE BARROSO DE OLIVEIRA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "JOSUÉ SOARES DE SÁ",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "KETILYN RAILANY FERREIRA DA CONCEICAO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2ºANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "CLAUDIA SANTOS DE JESUS CUPERTINO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2ºANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "EMILIN GEISA MONTEIRO DE JESUS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2ºANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "RIVANICE DE SOUZA LOPES",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "ALEX SANDRA LIMA CAJE",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "RIVANICE DE SOUZA LOPES",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "SIMONE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador regular"
+      }
     ]
   },
   {
@@ -661,14 +2069,30 @@
     "network": "Municipal",
     "address": "Caípe Velho",
     "region": "Rural Pedreiras",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "2º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
         "shift": "MATUTINO",
         "applications": 2,
         "row": 73
+      }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-09",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "IONARA GABRIELA OLIVEIRA DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "IONARA GABRIELA OLIVEIRA DOS SANTOS",
+        "function": "Aplicador regular"
       }
     ]
   },
@@ -678,8 +2102,6 @@
     "network": "Municipal",
     "address": "Avenida Paulo Barreto de Menezes, s/n",
     "region": "Centro",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
@@ -711,6 +2133,144 @@
         "applications": 1,
         "row": 58
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "ALEX SANDRA LIMA CAJE",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "IONARA GABRIELA OLIVEIRA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "RIVANICE DE SOUZA LOPES",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "DIEGO ANDRADE NASCIMENTO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "ALLEF WANDERSON ROCHA SILVA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "VIVIANE FERREIRA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "ANA CLAUDIA LOPES",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "EVERTON SILVA DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "KETILYN RAILANY FERREIRA DA CONCEICAO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO C - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "EDILENE GONÇALVES DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO C - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "PRISCILA OLIVEIRA DA CUNHA SILVA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "ALEX SANDRA LIMA CAJE",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "IONARA GABRIELA OLIVEIRA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "RIVANICE DE SOUZA LOPES",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "ANA CLAUDIA LOPES",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "EVERTON SILVA DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "KETILYN RAILANY FERREIRA DA CONCEICAO",
+        "function": "Aplicador extra"
+      }
     ]
   },
   {
@@ -719,8 +2279,6 @@
     "network": "Municipal",
     "address": "Alto da Colina",
     "region": "Centro",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "2ºANO - ENSINO FUNDAMENTAL - TARDE",
@@ -734,6 +2292,64 @@
         "applications": 1,
         "row": 60
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-09",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5ºANO - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "DIEGO ANDRADE NASCIMENTO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2ºANO - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "CRISTIANE ARAÚJO SILVA DA CRUZ",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2ºANO - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "EDJANE SANTOS DA PAIXÃO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2ºANO - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "RIVANICE DE SOUZA LOPES",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2ºANO - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "CLAUDIA SANTOS DE JESUS CUPERTINO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2ºANO - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "CRISTIANE ARAÚJO SILVA DA CRUZ",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2ºANO - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "EDJANE SANTOS DA PAIXÃO",
+        "function": "Aplicador regular"
+      }
     ]
   },
   {
@@ -742,8 +2358,6 @@
     "network": "Estadual",
     "address": "Avenida Irineu Neri, 530",
     "region": "Irineu Neri",
-    "source": "https://www.escol.as/cidades/1817-sao-cristovao/dependencia/estadual",
-    "status": "Conferir logradouro antes do deslocamento",
     "classes": [
       {
         "class_name": "2º ANO A",
@@ -769,6 +2383,48 @@
         "applications": 1,
         "row": 117
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A",
+        "applicator": "EVERTON SILVA DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO A",
+        "applicator": "ALLEF WANDERSON ROCHA SILVA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO B",
+        "applicator": "PAULO FERNANDO ALVES DE CARVALHO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO C",
+        "applicator": "MARTA SANTOS CRUZ",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A",
+        "applicator": "EVERTON SILVA DOS SANTOS",
+        "function": "Aplicador regular"
+      }
     ]
   },
   {
@@ -777,9 +2433,9 @@
     "network": "Municipal",
     "address": "Unnamed Road, São Cristóvão - SE, 49100-000",
     "region": "Rural BR",
+    "previous_name": "Escola Municipal de Ensino Fundamental Feijão",
     "source": "Informado pelo usuário",
     "status": "Endereço informado pelo usuário",
-    "previous_name": "Escola Municipal de Ensino Fundamental Feijão",
     "classes": [
       {
         "class_name": "2 º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
@@ -793,6 +2449,64 @@
         "applications": 1,
         "row": 88
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2 º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "HIANNDRA DA SILVA SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2 º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "IONARA GABRIELA OLIVEIRA DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO - ENSINO FUDAMENTAL - INTEGRAL",
+        "applicator": "ALISSON PEREIRA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO - ENSINO FUDAMENTAL - INTEGRAL",
+        "applicator": "DIEGO ANDRADE NASCIMENTO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO - ENSINO FUDAMENTAL - INTEGRAL",
+        "applicator": "IALLE ALICE OLIVEIRA TENORIO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2 º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "HIANNDRA DA SILVA SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2 º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "ROSILENE DE ASSIS OLIVEIRA BISPO",
+        "function": "Aplicador regular"
+      }
     ]
   },
   {
@@ -801,8 +2515,6 @@
     "network": "Municipal",
     "address": "Povoado Cabrita",
     "region": "Rosa Elze",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "2º ANO DO ENSINO FUNDAMENTAL - INTEGRAL",
@@ -816,6 +2528,56 @@
         "applications": 1,
         "row": 86
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-09",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO DO ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "ALEX SANDRA LIMA CAJE",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO DO ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "HIANNDRA DA SILVA SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "CLARICE PEREIRA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "GISLAINE ESTER CANDEIAS NASCIMENTO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO DO ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "ALEX SANDRA LIMA CAJE",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO DO ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "HIANNDRA DA SILVA SANTOS",
+        "function": "Aplicador extra"
+      }
     ]
   },
   {
@@ -824,8 +2586,6 @@
     "network": "Municipal",
     "address": "Povoado Parque Santa Rita",
     "region": "Rural BR",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "2º ANO A - ENSINO FUNDAMENTAL -MANHA",
@@ -845,6 +2605,128 @@
         "applications": 1,
         "row": 76
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL -MANHA",
+        "applicator": "DAYANE OLIVEIRA LIMA ROLLEMBERG",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL -MANHA",
+        "applicator": "GEANE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL -MANHA",
+        "applicator": "SIMONE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "ALLEF WANDERSON ROCHA SILVA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "CLARICE PEREIRA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "JULIANO DOS SANTOS CONCEICAO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "DAYANE OLIVEIRA LIMA ROLLEMBERG",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "GEANE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "SIMONE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL -MANHA",
+        "applicator": "DAYANE OLIVEIRA LIMA ROLLEMBERG",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL -MANHA",
+        "applicator": "GEANE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL -MANHA",
+        "applicator": "SIMONE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "DAYANE OLIVEIRA LIMA ROLLEMBERG",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "GEANE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "SIMONE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador regular"
+      }
     ]
   },
   {
@@ -853,8 +2735,6 @@
     "network": "Estadual",
     "address": "Avenida Dom José Vicente Távora",
     "region": "Centro",
-    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=359",
-    "status": "Conferir logradouro antes do deslocamento",
     "classes": [
       {
         "class_name": "9º ANO A",
@@ -868,6 +2748,24 @@
         "applications": 1,
         "row": 9
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9º ANO A",
+        "applicator": "DIEGO ROBERTO DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9º ANO B",
+        "applicator": "ERICA GOMES SANTOS",
+        "function": "Aplicador regular"
+      }
     ]
   },
   {
@@ -876,8 +2774,6 @@
     "network": "Municipal",
     "address": "Rua A, s/n, Loteamento Tijuquinha",
     "region": "Rosa Elze",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MATUTINO",
@@ -915,6 +2811,184 @@
         "applications": 1,
         "row": 82
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "ANNE CAROLINE SANTOS DE AQUINO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "BÁRBARA SANTOS PEREIRA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "TATYANNE DA SILVA RAMOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "CRISTIANE ARAÚJO SILVA DA CRUZ",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "EVERTON SILVA DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "GLEIDE SELMA NUNES ANDRADE SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "MARCIELE DE ANDRADE RIBEIRO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "SILVANEIDE RODRIGUES DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "ALLEF WANDERSON ROCHA SILVA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "ROBSON FERREIRA VIANA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "SAYD EMANUELLE DE SOUZA SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO B - ENSINO FUNDAMENTAL - VESPERTINO",
+        "applicator": "KATIA MARIA MOREIRA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO B - ENSINO FUNDAMENTAL - VESPERTINO",
+        "applicator": "SAYD EMANUELLE DE SOUZA SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO C - ENSINO FUNDAMENTAL - VESPERTINO",
+        "applicator": "ALLEF WANDERSON ROCHA SILVA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "ANNE CAROLINE SANTOS DE AQUINO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "BÁRBARA SANTOS PEREIRA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "TATYANNE DA SILVA RAMOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "ALEX SANDRA LIMA CAJE",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "LORENA GABRIELLY SILVA SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "GLEIDE SELMA NUNES ANDRADE SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "MARCIELE DE ANDRADE RIBEIRO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - MATUTINO",
+        "applicator": "SILVANEIDE RODRIGUES DOS SANTOS",
+        "function": "Aplicador regular"
+      }
     ]
   },
   {
@@ -923,8 +2997,6 @@
     "network": "Municipal",
     "address": "Alto de Itabaiana",
     "region": "Centro",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "2º ANO A ENSINO FUNDAMENTAL MANHA",
@@ -950,16 +3022,129 @@
         "applications": 1,
         "row": 110
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A ENSINO FUNDAMENTAL MANHA",
+        "applicator": "EMILIN GEISA MONTEIRO DE JESUS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A ENSINO FUNDAMENTAL MANHA",
+        "applicator": "ITAIANE BARROSO DE OLIVEIRA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO A ENSINO FUNDAMENTAL MANHA",
+        "applicator": "IALLE ALICE OLIVEIRA TENORIO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO A ENSINO FUNDAMENTAL MANHA",
+        "applicator": "VIVIANE FERREIRA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B ENSINO FUNDAMENAL TARDE",
+        "applicator": "ANA CLAUDIA LOPES",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B ENSINO FUNDAMENAL TARDE",
+        "applicator": "EDJANE SANTOS DA PAIXÃO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B ENSINO FUNDAMENAL TARDE",
+        "applicator": "ELIANA SIMOES DA CRUZ SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO B ENSINO FUNDAMENTAL TARDE",
+        "applicator": "IALLE ALICE OLIVEIRA TENORIO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO B ENSINO FUNDAMENTAL TARDE",
+        "applicator": "VIVIANE FERREIRA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A ENSINO FUNDAMENTAL MANHA",
+        "applicator": "EMILIN GEISA MONTEIRO DE JESUS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A ENSINO FUNDAMENTAL MANHA",
+        "applicator": "ITAIANE BARROSO DE OLIVEIRA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B ENSINO FUNDAMENAL TARDE",
+        "applicator": "ANA CLAUDIA LOPES",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B ENSINO FUNDAMENAL TARDE",
+        "applicator": "EDJANE SANTOS DA PAIXÃO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO B ENSINO FUNDAMENAL TARDE",
+        "applicator": "MARIA GRACILENE BASTOS DE JESUS SANTOS",
+        "function": "Aplicador extra"
+      }
     ]
   },
   {
     "name": "Maria Oliveira Santos",
     "full": "ESCOLA MUNICIPAL MARIA OLIVEIRA SANTOS",
     "network": "Municipal",
-    "address": "Travessa D, s/n, Madre Paulina",
-    "region": "Rosa Elze",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
+    "address": "Rodovia João Bebe Água, 106",
+    "region": "Madre Paulina",
+    "map_query": "STAR salão de Festa e Eventos. - Rod. João Bebe Água, 106 - Madre Paulina, São Cristóvão - SE, 49100-000",
     "classes": [
       {
         "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
@@ -985,6 +3170,96 @@
         "applications": 1,
         "row": 104
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "ANNE CAROLINE SANTOS DE AQUINO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "ROSILENE DE ASSIS OLIVEIRA BISPO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "GLEIDE SELMA NUNES ANDRADE SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "TATYANNE DA SILVA RAMOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "ROBSON FERREIRA VIANA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "EDILENE GONÇALVES DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "VIVIANE FERREIRA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "ANNE CAROLINE SANTOS DE AQUINO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "ROSILENE DE ASSIS OLIVEIRA BISPO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "GLEIDE SELMA NUNES ANDRADE SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "TATYANNE DA SILVA RAMOS",
+        "function": "Aplicador extra"
+      }
     ]
   },
   {
@@ -993,8 +3268,6 @@
     "network": "Municipal",
     "address": "Rua Grujim",
     "region": "Rosa Elze",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "9º ANO A - ENSINO FUNDAMENTAL - INTEGRAL",
@@ -1014,6 +3287,40 @@
         "applications": 1,
         "row": 63
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO A - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "FERNANDO TAVARES SOUZA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO B - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "MARCIA CRISTINA FIGUEIROA SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9º ANO C - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "KATIA MARIA MOREIRA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-11",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9º ANO C - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "MARCIA CRISTINA FIGUEIROA SANTOS",
+        "function": "Aplicador regular"
+      }
     ]
   },
   {
@@ -1022,8 +3329,6 @@
     "network": "Estadual",
     "address": "Rua A, Conjunto Lafaiete Coutinho",
     "region": "Eduardo Gomes",
-    "source": "https://www.escol.as/cidades/1817-sao-cristovao/dependencia/estadual",
-    "status": "Conferir logradouro antes do deslocamento",
     "classes": [
       {
         "class_name": "9 ANO A",
@@ -1043,6 +3348,32 @@
         "applications": 1,
         "row": 91
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9 ANO A",
+        "applicator": "MARTA SANTOS CRUZ",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9 ANO B",
+        "applicator": "ALISSON PEREIRA DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9 ANO C",
+        "applicator": "GISLAINE ESTER CANDEIAS NASCIMENTO",
+        "function": "Aplicador regular"
+      }
     ]
   },
   {
@@ -1051,8 +3382,6 @@
     "network": "Estadual",
     "address": "Rua A, Conjunto Lafayete Coutinho",
     "region": "Rosa Elze",
-    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=362",
-    "status": "Cadastro estadual / diretório complementar",
     "classes": [
       {
         "class_name": "9º ANO A",
@@ -1066,6 +3395,40 @@
         "applications": 1,
         "row": 125
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO A",
+        "applicator": "IALLE ALICE OLIVEIRA TENORIO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO A",
+        "applicator": "PAULO FERNANDO ALVES DE CARVALHO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9º ANO B",
+        "applicator": "IALLE ALICE OLIVEIRA TENORIO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9º ANO B",
+        "applicator": "PAULO FERNANDO ALVES DE CARVALHO",
+        "function": "Aplicador extra"
+      }
     ]
   },
   {
@@ -1074,8 +3437,6 @@
     "network": "Estadual",
     "address": "Avenida Paulo Barreto de Menezes",
     "region": "Centro",
-    "source": "https://site.seduc.se.gov.br/redeEstadual/Escola.asp?cdestrutura=363",
-    "status": "Cadastro estadual / diretório complementar",
     "classes": [
       {
         "class_name": "9º ANO A",
@@ -1095,6 +3456,40 @@
         "applications": 1,
         "row": 35
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-18",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "3ª SERIE A",
+        "applicator": "SAYD EMANUELLE DE SOUZA SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "3ª SERIE B",
+        "applicator": "ROBSON FERREIRA VIANA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "3ª SERIE B",
+        "applicator": "VIVIANE FERREIRA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO A",
+        "applicator": "DIEGO ROBERTO DOS SANTOS",
+        "function": "Aplicador regular"
+      }
     ]
   },
   {
@@ -1103,8 +3498,6 @@
     "network": "Municipal",
     "address": "Avenida Lourival Baptista, s/n",
     "region": "Centro",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "2º ANO- ENSINO FUNDAMENTAL - MANHA",
@@ -1118,6 +3511,56 @@
         "applications": 1,
         "row": 84
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-09",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO- ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "GEANE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO- ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "SIMONE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - VESPERTINO",
+        "applicator": "MARCIA CRISTINA FIGUEIROA SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - VESPERTINO",
+        "applicator": "PRISCILA OLIVEIRA DA CUNHA SILVA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO- ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "DAYANE OLIVEIRA LIMA ROLLEMBERG",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO- ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "GEANE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador extra"
+      }
     ]
   },
   {
@@ -1126,8 +3569,6 @@
     "network": "Municipal",
     "address": "Rua A, s/n, Luiz Alves",
     "region": "Rosa Elze",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
@@ -1165,6 +3606,144 @@
         "applications": 1,
         "row": 134
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "ANNE CAROLINE SANTOS DE AQUINO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "JOSUÉ SOARES DE SÁ",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "IONARA GABRIELA OLIVEIRA DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "RIVANICE DE SOUZA LOPES",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "PRISCILA OLIVEIRA DA CUNHA SILVA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "DIEGO ANDRADE NASCIMENTO",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "MARCIA CRISTINA FIGUEIROA SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "GLEIDE SELMA NUNES ANDRADE SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "ROSILENE DE ASSIS OLIVEIRA BISPO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO C - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "MARCIA CRISTINA FIGUEIROA SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-16",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO C - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "PRISCILA OLIVEIRA DA CUNHA SILVA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "CRISTIANE ARAÚJO SILVA DA CRUZ",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "JOSUÉ SOARES DE SÁ",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "IONARA GABRIELA OLIVEIRA DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B - ENSINO FUNDAMENTAL - MANHA",
+        "applicator": "RIVANICE DE SOUZA LOPES",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "GLEIDE SELMA NUNES ANDRADE SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO C - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "ROSILENE DE ASSIS OLIVEIRA BISPO",
+        "function": "Aplicador extra"
+      }
     ]
   },
   {
@@ -1173,8 +3752,6 @@
     "network": "Municipal",
     "address": "Barreiro",
     "region": "Rosa Elze",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "2º ANO A MATUTINO ENSINO FUNDAMENTAL",
@@ -1212,6 +3789,264 @@
         "applications": 1,
         "row": 97
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A MATUTINO ENSINO FUNDAMENTAL",
+        "applicator": "BÁRBARA SANTOS PEREIRA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A MATUTINO ENSINO FUNDAMENTAL",
+        "applicator": "CRISTIANE ARAÚJO SILVA DA CRUZ",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A MATUTINO ENSINO FUNDAMENTAL",
+        "applicator": "SIMONE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B MATUTINO ENSINO FUNDAMENTAL",
+        "applicator": "CLAUDIA SANTOS DE JESUS CUPERTINO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B MATUTINO ENSINO FUNDAMENTAL",
+        "applicator": "DAYANE OLIVEIRA LIMA ROLLEMBERG",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B MATUTINO ENSINO FUNDAMENTAL",
+        "applicator": "EMILIN GEISA MONTEIRO DE JESUS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5ºANO A MATUTINO ENSINO FUNDAMENTAL",
+        "applicator": "CLARICE PEREIRA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5ºANO A MATUTINO ENSINO FUNDAMENTAL",
+        "applicator": "DIEGO ROBERTO DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5ºANO A MATUTINO ENSINO FUNDAMENTAL",
+        "applicator": "ERICA GOMES SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5ºANO A MATUTINO ENSINO FUNDAMENTAL",
+        "applicator": "MARCIA CRISTINA FIGUEIROA SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO C VESPERTINO ENSINO FUNDAMENTAL",
+        "applicator": "BÁRBARA SANTOS PEREIRA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO C VESPERTINO ENSINO FUNDAMENTAL",
+        "applicator": "CRISTIANE ARAÚJO SILVA DA CRUZ",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO C VESPERTINO ENSINO FUNDAMENTAL",
+        "applicator": "SIMONE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO D VESPERTINO ENSINO FUNDAMENTAL",
+        "applicator": "CLAUDIA SANTOS DE JESUS CUPERTINO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO D VESPERTINO ENSINO FUNDAMENTAL",
+        "applicator": "DAYANE OLIVEIRA LIMA ROLLEMBERG",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO D VESPERTINO ENSINO FUNDAMENTAL",
+        "applicator": "LUCIANE MARQUES DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5ºANO B VESPERTINO ENSINO FUNDAMENTAL",
+        "applicator": "CLARICE PEREIRA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5ºANO B VESPERTINO ENSINO FUNDAMENTAL",
+        "applicator": "DANILO DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5ºANO B VESPERTINO ENSINO FUNDAMENTAL",
+        "applicator": "DIEGO ROBERTO DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-12",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5ºANO B VESPERTINO ENSINO FUNDAMENTAL",
+        "applicator": "ERICA GOMES SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A MATUTINO ENSINO FUNDAMENTAL",
+        "applicator": "BÁRBARA SANTOS PEREIRA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A MATUTINO ENSINO FUNDAMENTAL",
+        "applicator": "CRISTIANE ARAÚJO SILVA DA CRUZ",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO A MATUTINO ENSINO FUNDAMENTAL",
+        "applicator": "SIMONE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B MATUTINO ENSINO FUNDAMENTAL",
+        "applicator": "CLAUDIA SANTOS DE JESUS CUPERTINO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B MATUTINO ENSINO FUNDAMENTAL",
+        "applicator": "DAYANE OLIVEIRA LIMA ROLLEMBERG",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2º ANO B MATUTINO ENSINO FUNDAMENTAL",
+        "applicator": "HIANNDRA DA SILVA SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO C VESPERTINO ENSINO FUNDAMENTAL",
+        "applicator": "BÁRBARA SANTOS PEREIRA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO C VESPERTINO ENSINO FUNDAMENTAL",
+        "applicator": "CRISTIANE ARAÚJO SILVA DA CRUZ",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO C VESPERTINO ENSINO FUNDAMENTAL",
+        "applicator": "SIMONE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO D VESPERTINO ENSINO FUNDAMENTAL",
+        "applicator": "CLAUDIA SANTOS DE JESUS CUPERTINO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO D VESPERTINO ENSINO FUNDAMENTAL",
+        "applicator": "DAYANE OLIVEIRA LIMA ROLLEMBERG",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO D VESPERTINO ENSINO FUNDAMENTAL",
+        "applicator": "LUCIANE MARQUES DOS SANTOS",
+        "function": "Aplicador extra"
+      }
     ]
   },
   {
@@ -1220,8 +4055,6 @@
     "network": "Municipal",
     "address": "Rua Erundino Prado Filho, s/n",
     "region": "Centro",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "9º ANO A ENSINO FUNDAMENTAL INTEGRAL",
@@ -1241,6 +4074,120 @@
         "applications": 1,
         "row": 32
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO A ENSINO FUNDAMENTAL INTEGRAL",
+        "applicator": "FERNANDO TAVARES SOUZA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO A ENSINO FUNDAMENTAL INTEGRAL",
+        "applicator": "IALLE ALICE OLIVEIRA TENORIO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO A ENSINO FUNDAMENTAL INTEGRAL",
+        "applicator": "JULIANO DOS SANTOS CONCEICAO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO A ENSINO FUNDAMENTAL INTEGRAL",
+        "applicator": "PRISCILA OLIVEIRA DA CUNHA SILVA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO B ENSINO FUNDAMENTAL INTEGRAL",
+        "applicator": "DIEGO ANDRADE NASCIMENTO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO B ENSINO FUNDAMENTAL INTEGRAL",
+        "applicator": "DIEGO ROBERTO DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO B ENSINO FUNDAMENTAL INTEGRAL",
+        "applicator": "LORENA GABRIELLY SILVA SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "9º ANO B ENSINO FUNDAMENTAL INTEGRAL",
+        "applicator": "SAYD EMANUELLE DE SOUZA SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9º ANO C ENSINO FUNDAMENTAL INTEGRAL",
+        "applicator": "DIEGO ANDRADE NASCIMENTO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9º ANO C ENSINO FUNDAMENTAL INTEGRAL",
+        "applicator": "FERNANDO TAVARES SOUZA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9º ANO C ENSINO FUNDAMENTAL INTEGRAL",
+        "applicator": "IALLE ALICE OLIVEIRA TENORIO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9º ANO C ENSINO FUNDAMENTAL INTEGRAL",
+        "applicator": "JULIANO DOS SANTOS CONCEICAO",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9º ANO C ENSINO FUNDAMENTAL INTEGRAL",
+        "applicator": "MARTA SANTOS CRUZ",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-13",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "9º ANO C ENSINO FUNDAMENTAL INTEGRAL",
+        "applicator": "SAYD EMANUELLE DE SOUZA SANTOS",
+        "function": "Aplicador extra"
+      }
     ]
   },
   {
@@ -1249,8 +4196,6 @@
     "network": "Municipal",
     "address": "Povoado Pedreiras",
     "region": "Rural Pedreiras",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "2º ANO - ENSINO FUNDAMENTAL - TARDE",
@@ -1264,6 +4209,64 @@
         "applications": 1,
         "row": 53
       }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "KATIA MARIA MOREIRA DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "LORENA GABRIELLY SILVA SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "5º ANO - ENSINO FUNDAMENTAL - INTEGRAL",
+        "applicator": "PRISCILA OLIVEIRA DA CUNHA SILVA",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "EVERTON SILVA DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-17",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "LUCIANE MARQUES DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "EVERTON SILVA DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-18",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2º ANO - ENSINO FUNDAMENTAL - TARDE",
+        "applicator": "LUCIANE MARQUES DOS SANTOS",
+        "function": "Aplicador extra"
+      }
     ]
   },
   {
@@ -1272,8 +4275,6 @@
     "network": "Municipal",
     "address": "Rua Principal, Povoado Rita Cacete",
     "region": "Rita Cacete",
-    "source": "https://www.saocristovao.se.gov.br/orgaos/semed?abrir_modal=true",
-    "status": "Endereço do cadastro municipal",
     "classes": [
       {
         "class_name": "2ºANO A ENSINO FUNDAMENTAL MANHA",
@@ -1292,6 +4293,144 @@
         "shift": "INTEGRAL",
         "applications": 1,
         "row": 113
+      }
+    ],
+    "assignments": [
+      {
+        "date": "2026-11-09",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2ºANO A ENSINO FUNDAMENTAL MANHA",
+        "applicator": "DAYANE OLIVEIRA LIMA ROLLEMBERG",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2ºANO A ENSINO FUNDAMENTAL MANHA",
+        "applicator": "ITAIANE BARROSO DE OLIVEIRA",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2ºANO B ENSINO FUNDAMENTAL TARDE",
+        "applicator": "ANA CLAUDIA LOPES",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2ºANO B ENSINO FUNDAMENTAL TARDE",
+        "applicator": "ELIANA SIMOES DA CRUZ SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2ºANO B ENSINO FUNDAMENTAL TARDE",
+        "applicator": "GLEIDE SELMA NUNES ANDRADE SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2ºANO B ENSINO FUNDAMENTAL TARDE",
+        "applicator": "LUCIANE MARQUES DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2ºANO B ENSINO FUNDAMENTAL TARDE",
+        "applicator": "SIMONE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO A ENSINO FUNDAMENTAL INTEGRAL",
+        "applicator": "EDILENE GONÇALVES DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO A ENSINO FUNDAMENTAL INTEGRAL",
+        "applicator": "LUCAS DE JESUS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-09",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "5º ANO A ENSINO FUNDAMENTAL INTEGRAL",
+        "applicator": "SYNARA LUIZA SIMOES DA CRUZ SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2ºANO A ENSINO FUNDAMENTAL MANHA",
+        "applicator": "JOSUÉ SOARES DE SÁ",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Matutino",
+        "time": "08:30",
+        "class_name": "2ºANO A ENSINO FUNDAMENTAL MANHA",
+        "applicator": "SIMONE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador regular"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2ºANO B ENSINO FUNDAMENTAL TARDE",
+        "applicator": "ANA CLAUDIA LOPES",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2ºANO B ENSINO FUNDAMENTAL TARDE",
+        "applicator": "ELIANA SIMOES DA CRUZ SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2ºANO B ENSINO FUNDAMENTAL TARDE",
+        "applicator": "GLEIDE SELMA NUNES ANDRADE SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2ºANO B ENSINO FUNDAMENTAL TARDE",
+        "applicator": "LUCIANE MARQUES DOS SANTOS",
+        "function": "Aplicador extra"
+      },
+      {
+        "date": "2026-11-10",
+        "shift": "Vespertino",
+        "time": "13:30",
+        "class_name": "2ºANO B ENSINO FUNDAMENTAL TARDE",
+        "applicator": "SIMONE ROLLEMBERG DOS SANTOS",
+        "function": "Aplicador regular"
       }
     ]
   }

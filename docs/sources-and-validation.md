@@ -5,7 +5,8 @@ Este documento registra a origem dos dados publicados e as ressalvas para uso do
 ## Materiais do projeto
 
 - `data/source/applications-2026.xlsx`: planilha SAESE 2026, aba `Tuma_Escola_Polo`, intervalo A1:E149. Tem 37 escolas, 148 linhas de turma e soma de 192 aplicações. Células vazias de escola pertencem ao grupo iniciado pela escola nomeada na linha anterior. A planilha não informa data individual por escola.
-- `docs/sources/application-schedule-2026.txt`: cronograma local: treinamento em 07/11/2026; aplicações prioritárias de 09 a 13/11 e contingência de 16 a 19/11; manhã 8h–11h e tarde 13h–16h. O local do treinamento seria divulgado.
+- `data/source/Consolidado_Escolas_Aplicadores.xlsx`: escala consolidada, aba `Resumo`, com 392 atribuições em 37 escolas. Cada linha contém escola, data, turno, horário, turma, nome do aplicador e função. Os registros listam aplicações entre 09/11 e 18/11/2026, às 08:30 ou 13:30.
+- `docs/sources/application-schedule-2026.txt`: cronograma local revisado: período das aplicações de 09/11 a 18/11/2026; manhã 8h–11h e tarde 13h–16h. A Coordenação do Polo informou que não haverá aplicações em 19/11.
 - `docs/sources/saese-overview.txt`: contexto histórico do SAESE. O cronograma ali descrito pertence a outra edição e não foi usado para 2026.
 - `assets/saese-logo.jpeg` e `assets/sao-cristovao-illustration.jpeg`: imagens originais incorporadas ao HTML pelo gerador.
 
@@ -18,6 +19,7 @@ A cópia versionada da planilha teve os metadados de autoria removidos. O origin
 - [Diretório complementar de escolas estaduais](https://www.escol.as/cidades/1817-sao-cristovao/dependencia/estadual): usado quando necessário para Luiz Guimarães, Neyde Mesquita e complemento da Rua 62 de Glorita Portugal.
 - [Painel DRE 08](https://app.powerbi.com/view?r=eyJrIjoiNmI4YWQ1ZTMtZDllOC00Mjk2LThlZTYtMjRkMmY4ZThjOGQxIiwidCI6ImUxNmI0YjM5LWI4ZmMtNGE2Mi05YThmLTQ1YjdkYjU3NmRjOSJ9): consulta anterior da edição 2025, usada como apoio para associar nomes abreviados a cadastros; a lista publicada de 2026 segue a planilha de aplicações.
 - Endereço da Escola Municipal Professora Luzinete Teixeira Santos de Oliveira: informado pelo usuário como `Unnamed Road, São Cristóvão - SE, 49100-000`.
+- Localização atualizada da Escola Municipal Maria Oliveira Santos: [ponto do Google Maps informado pelo usuário](https://maps.app.goo.gl/dXy3aYh9FqowiEBV9), Rodovia João Bebe Água, 106, Madre Paulina. O ponto do mapa aparece identificado como “STAR Salão de Festa e Eventos”; a associação do ponto à escola foi informada pelo usuário.
 
 ## Ressalvas
 
