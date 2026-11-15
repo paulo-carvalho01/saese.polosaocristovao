@@ -37,6 +37,7 @@ A relação contém 37 escolas. A planilha de turmas registra 148 linhas e 192 a
 │   ├── import_applications.py         # Importa escolas/turmas da planilha
 │   ├── import_assignments.py          # Importa datas, horários e aplicadores
 │   ├── build_page.py                  # Gera o HTML e o export de endereços
+│   ├── page-overrides.css             # Estilos visuais incorporados ao HTML gerado
 │   └── update_from_sheet.py           # Executa o fluxo completo
 ├── site/index.html                    # Página final publicada pelo Pages
 ├── requirements.txt                   # Dependência Python do importador

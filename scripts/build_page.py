@@ -57,11 +57,10 @@ body{background:radial-gradient(ellipse at 8% 30%,rgba(33,79,133,.07),transparen
 .reveal-icon.icon-visible{display:inline-block;animation:icon-rise .62s cubic-bezier(.2,.75,.25,1) both}
 @media(prefers-reduced-motion:reduce){.school-date.icon-visible:before,.school-list summary.icon-visible:after,.reveal-icon.icon-visible{animation:none}}
 </style></head><body>
-<div class="draft">Fonte das informações: Coordenação do Polo São Cristóvão.</div>
 <header class="top"><div class="wrap"><img class="logo" src="data:image/jpeg;base64,__LOGO__" alt="SAESE"><nav aria-label="Navegação principal"><a href="#escolas">Encontrar escola</a><a href="#datas">Datas e horários</a><a href="#orientacoes">Orientações</a></nav></div></header>
-<main><section class="hero"><div class="wrap"><div><div class="eyebrow">Guia do aplicador</div><h1>SAESE 2026<br>Polo São Cristóvão</h1><p>Seja bem-vindo(a)! Encontre o endereço da sua escola, consulte o mapa e organize sua participação nas aplicações.</p><a class="cta" href="#escolas">Encontrar minha escola <span class="reveal-icon" aria-hidden="true">↓</span></a></div><img src="data:image/jpeg;base64,__ART__" alt="Ilustração de São Cristóvão com as cores do SAESE"></div></section>
+<main><section class="hero"><canvas class="hero-waves" aria-hidden="true"></canvas><div class="wrap"><div><div class="eyebrow">Guia do aplicador</div><h1>SAESE 2026<br>Polo São Cristóvão</h1><p>Seja bem-vindo(a)! Encontre o endereço da sua escola, consulte o mapa e organize sua participação nas aplicações.</p><a class="cta" href="#escolas">Encontrar minha escola <span class="reveal-icon" aria-hidden="true">↓</span></a></div><img src="data:image/jpeg;base64,__ART__" alt="Ilustração de São Cristóvão com as cores do SAESE"></div></section>
 <section class="section" id="datas"><div class="wrap"><h2>Datas para se organizar</h2><p class="lead">Calendário SAESE 2026 — Polo São Cristóvão.</p><div class="schedule"><article class="card"><span class="tag">Período das aplicações</span><div class="date">09 a 18 novembro</div><h3>Aplicações</h3><p>As aplicações serão realizadas entre 09/11 e 18/11.</p></article></div><div class="hours"><span><strong>Manhã:</strong> 8h às 11h</span><span><strong>Tarde:</strong> 13h às 16h</span></div></div></section>
-<section class="section finder" id="escolas"><div class="wrap"><h2>Onde fica a sua escola?</h2><p class="lead">Busque pelo nome da escola ou do aplicador, turma, endereço ou região. Clique na escola para abrir o endereço, o mapa, a rota e as aplicações atribuídas.</p><div class="note">As fichas mostram, para cada turma, a data, o turno, o horário, o aplicador e a função. Pesquise pelo nome do aplicador para encontrar as escolas vinculadas a ele.</div><div class="filters"><label>Escola, aplicador, turma, endereço ou região<input id="search" type="search" placeholder="Ex.: nome do aplicador, Glorita, Centro…"></label><label>Rede de ensino<select id="network"><option value="">Todas as redes</option>Municipal</option>Estadual</select></label></div><div class="count" id="count" role="status" aria-live="polite"></div><div class="school-list" id="list"></div>__FALLBACK__<p class="empty" id="empty" hidden>Nenhuma escola encontrada. Tente outra parte do nome ou selecione todas as redes.</p></div></section>
+<section class="section finder" id="escolas"><div class="wrap"><h2>Onde fica a sua escola?</h2><p class="lead">Busque pelo nome da escola ou do aplicador, turma, endereço ou região. Clique na escola para abrir o endereço, o mapa, a rota e as aplicações atribuídas.</p><div class="note">As fichas mostram, para cada turma, a data, o turno, o horário, o aplicador e a função. Pesquise pelo nome do aplicador para encontrar as escolas vinculadas a ele.</div><div class="filters"><label>Escola, aplicador, turma, endereço ou região<input id="search" type="search" placeholder="Ex.: nome do aplicador, Glorita, Centro…"></label><label>Rede de ensino<select id="network"><option value="">Todas as redes</option><option value="Municipal">Municipal</option><option value="Estadual">Estadual</option></select></label></div><div class="count" id="count" role="status" aria-live="polite"></div><div class="school-list" id="list"></div>__FALLBACK__<p class="empty" id="empty" hidden>Nenhuma escola encontrada. Tente outra parte do nome ou selecione todas as redes.</p></div></section>
 <section class="section" id="orientacoes"><div class="wrap guide"><article><h2>Antes da aplicação</h2><ul><li>Confira sua convocação: escola, turma, data e turno.</li><li>Consulte o endereço e planeje o trajeto com antecedência.</li><li>Em caso de dúvida sobre o local, confirme com a coordenação do polo antes de sair.</li></ul></article><article class="card"><span class="tag">Sobre a avaliação</span><h3>Conhecer para melhorar</h3><p>O Sistema de Avaliação da Educação Básica de Sergipe acompanha a alfabetização e a aprendizagem dos estudantes. Seus resultados ajudam a identificar necessidades e orientar ações para melhorar a educação.</p><p>Este espaço reúne as informações práticas para os aplicadores do Polo São Cristóvão.</p></article></div></section></main>
 <footer><div class="wrap">SAESE 2026 · Polo São Cristóvão · Preparado para revisão em 08/11/2026.<br>Fonte das informações: Coordenação do Polo São Cristóvão.<br>Os mapas são resultados de busca pelo nome e pelo endereço; os marcadores ainda precisam de validação pela coordenação.</div></footer>
 <script>
@@ -85,8 +84,126 @@ document.getElementById('search').addEventListener('input',filter);document.getE
 const iconObserver='IntersectionObserver'in window?new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting){entry.target.classList.add('icon-visible');iconObserver.unobserve(entry.target)}}),{threshold:.15,rootMargin:'0px 0px -5% 0px'}):null;
 const observeIcons=scope=>scope.querySelectorAll('.school-date,.school-list summary,.reveal-icon').forEach(icon=>iconObserver?iconObserver.observe(icon):icon.classList.add('icon-visible'));
 observeIcons(document);
+const hero=document.querySelector('.hero');
+const waterCanvas=hero.querySelector('.hero-waves');
+const waterContext=waterCanvas.getContext('2d');
+const waterMotion=matchMedia('(prefers-reduced-motion: reduce)');
+const waterSources=Array.from({length:2},(_,index)=>({
+  x:.12+Math.random()*.76,y:.12+Math.random()*.76,
+  fromX:0,fromY:0,targetX:0,targetY:0,shiftStart:0,shiftEnd:0,
+  nextShift:performance.now()+4500+index*2100,
+  phase:Math.random()*Math.PI*2,speed:.85+Math.random()*.3
+}));
+let waterWidth=0,waterHeight=0,waterImage,waterFrameActive=false,lastWaterFrame=0,waterRunId=0,waterInView=true;
+const startWater=()=>{
+  if(!waterContext||waterMotion.matches||document.hidden||!waterInView||waterFrameActive)return;
+  waterFrameActive=true;
+  const runId=++waterRunId;
+  requestAnimationFrame(timestamp=>animateWater(timestamp,runId));
+};
+const stopWater=()=>{
+  if(!waterFrameActive)return;
+  waterRunId++;
+  waterFrameActive=false;
+};
+const syncWaterPlayback=()=>{
+  if(waterMotion.matches||document.hidden||!waterInView)stopWater();
+  else startWater();
+};
+const resizeWater=()=>{
+  if(!waterContext)return;
+  const bounds=hero.getBoundingClientRect();
+  waterWidth=bounds.width;waterHeight=bounds.height;
+  waterCanvas.width=Math.max(1,Math.min(640,Math.round(waterWidth*.58)));
+  waterCanvas.height=Math.max(1,Math.min(320,Math.round(waterHeight*.58)));
+  waterImage=waterContext.createImageData(waterCanvas.width,waterCanvas.height);
+  drawWater(performance.now()/1000);
+};
+const drawWater=seconds=>{
+  if(!waterImage||!waterWidth||!waterHeight)return;
+  const width=waterCanvas.width,height=waterCanvas.height;
+  const scaleX=waterWidth/width,scaleY=waterHeight/height;
+  const waveNumber=2*Math.PI/108;
+  const data=waterImage.data;
+  for(let y=0;y<height;y++)for(let x=0;x<width;x++){
+    const px=x*scaleX,py=y*scaleY;
+    let heightField=0,gradientX=0,gradientY=0;
+    for(const source of waterSources){
+      const dx=px-source.x*waterWidth,dy=py-source.y*waterHeight;
+      const distance=Math.max(1,Math.hypot(dx,dy));
+      const decay=Math.exp(-distance/(waterWidth*.68));
+      const angle=distance*waveNumber-seconds*2.35*source.speed+source.phase;
+      const sine=Math.sin(angle),cosine=Math.cos(angle);
+      heightField+=sine*decay;
+      const slope=decay*(waveNumber*cosine-sine/(waterWidth*.68));
+      gradientX+=slope*dx/distance;
+      gradientY+=slope*dy/distance;
+    }
+    const amplitude=heightField*.55;
+    const light=Math.max(.4,Math.min(1.08,.72-gradientX*1.1-gradientY*.7+amplitude*.08));
+    const strength=Math.min(1,Math.abs(amplitude));
+    const offset=(y*width+x)*4;
+    if(amplitude>=0){
+      data[offset]=Math.round((206+36*strength)*light);
+      data[offset+1]=Math.round((234+21*strength)*light);
+      data[offset+2]=Math.round((244+11*strength)*light);
+    }else{
+      data[offset]=Math.round(66*light);
+      data[offset+1]=Math.round(132*light);
+      data[offset+2]=Math.round(162*light);
+    }
+    data[offset+3]=Math.round(Math.pow(strength,1.35)*150);
+  }
+  waterContext.putImageData(waterImage,0,0);
+};
+const animateWater=(timestamp,runId)=>{
+  if(runId!==waterRunId)return;
+  if(waterMotion.matches||document.hidden||!waterInView){waterFrameActive=false;return;}
+  if(timestamp-lastWaterFrame>=40){
+    const now=performance.now();
+    for(const source of waterSources){
+      if(now>=source.nextShift){
+        source.fromX=source.x;source.fromY=source.y;
+        source.targetX=.12+Math.random()*.76;source.targetY=.12+Math.random()*.76;
+        source.shiftStart=now;source.shiftEnd=now+1800;
+        source.nextShift=now+6500+Math.random()*4500;
+      }
+      if(source.shiftEnd>source.shiftStart&&now<source.shiftEnd){
+        const progress=(now-source.shiftStart)/(source.shiftEnd-source.shiftStart);
+        const eased=progress*progress*(3-2*progress);
+        source.x=source.fromX+(source.targetX-source.fromX)*eased;
+        source.y=source.fromY+(source.targetY-source.fromY)*eased;
+      }else if(source.shiftEnd){
+        source.x=source.targetX;source.y=source.targetY;
+      }
+    }
+    drawWater(timestamp/1000);lastWaterFrame=timestamp;
+  }
+  requestAnimationFrame(next=>animateWater(next,runId));
+};
+new ResizeObserver(resizeWater).observe(hero);
+new IntersectionObserver(entries=>{
+  waterInView=entries[0].isIntersecting;
+  syncWaterPlayback();
+}).observe(hero);
+document.addEventListener('visibilitychange',syncWaterPlayback);
+waterMotion.addEventListener('change',()=>{
+  if(waterMotion.matches)drawWater(0);
+  syncWaterPlayback();
+});
+if(waterContext){
+  resizeWater();
+  syncWaterPlayback();
+}
 </script></body></html>'''
-public_schools = [
+polish_styles = (root / 'scripts' / 'page-overrides.css').read_text(encoding='utf-8').strip()
+polish_styles = polish_styles.replace(
+    ':root {',
+    ':root {\n  --saese-backdrop: url("data:image/jpeg;base64,__ART__");',
+    1,
+)
+template = template.replace('</style></head>', f'</style><style>\n{polish_styles}\n</style></head>', 1)
+public_schools=[
     {
         key: value
         for key, value in school.items()
